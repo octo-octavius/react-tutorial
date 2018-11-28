@@ -7,3 +7,25 @@
   margin-top: 10px !important;
   margin-bottom: 20px !important;
 }
+
+.name {
+  margin : 5px;
+  font-size: 100px;
+  background-color: yellow; 
+}
+.column-title {
+  margin : 5px;
+  font-size: 100px;
+  background-color: red;
+}
+
+.column-val {
+  margin : 5px;
+  font-size: 40px;
+  background-color: aquamarine;
+}
+
+.friends-list {
+  background-color: lightblue;
+  font-size: 40px;
+}
